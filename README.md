@@ -4,7 +4,9 @@ This repository is the initial setup for SampleHub, using Node.js + Express for 
 
 ## System Info
 OS: Arch Linux
+
 Node.js: v24.5.0
+
 npm: 11.5.2
 
 ## How to Run
