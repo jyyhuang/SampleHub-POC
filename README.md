@@ -3,10 +3,8 @@
 This repository is the initial setup for SampleHub, using Node.js + Express for the backend and Vite + React for the frontend.
 
 ## System Info
-OS: Arch Linux
-
-Node.js: v24.5.0
-
+OS: Arch Linux<br>
+Node.js: v24.5.0<br>
 npm: 11.5.2
 
 ## How to Run
